@@ -3,8 +3,8 @@ console.log(typeof score);
 console.log(typeof (score));
 
 let valueInnumber = Number(score)
-console.log(typeof valueInnumber);
-console.log(valueInnumber);
+// console.log(typeof valueInnumber);
+// console.log(valueInnumber);
 
 // Conertion is not done string to number give NaN
 // undefined also give NaN
@@ -20,7 +20,7 @@ console.log(valueInnumber);
 let isloggedIn = -1
 
 let booleanisloggedIn = Boolean(isloggedIn)
-console.log(booleanisloggedIn);
+// console.log(booleanisloggedIn);
 
 // 0->false; anyother->true
 // ""->false; ow->true
@@ -28,4 +28,4 @@ console.log(booleanisloggedIn);
 let someNumber = 33
 let stringsomeNumber = String(someNumber)
 
-console.log(typeof stringsomeNumber);
+// console.log(typeof stringsomeNumber);s
